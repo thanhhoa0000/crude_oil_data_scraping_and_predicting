@@ -1,0 +1,6 @@
+selenium==4.22.0
+webdriver-manager
+openpyxl
+pandas
+matplotlib
+scikit-learn
